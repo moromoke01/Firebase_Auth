@@ -51,7 +51,7 @@ function LoginPage() {
                    placeholder='Enter your Password'/>
           </div>
           <button type="submit">Login</button>
-         <p> No account yet? SignUp <Link to="/SignUp">here</Link></p>
+         <p> No account yet? SignUp <Link to="/">here</Link></p>
         </form>
       </div>
     </div>
